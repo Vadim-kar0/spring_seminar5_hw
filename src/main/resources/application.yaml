@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: seminar5_hw
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
